@@ -1,0 +1,20 @@
+*.iml
+.gradle/
+/.gradle/
+.idea/
+/build/
+app/build/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.DS_Store
+google-services.json
+
+# Legacy / IDE (keep ignores that still help if paths differ)
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
